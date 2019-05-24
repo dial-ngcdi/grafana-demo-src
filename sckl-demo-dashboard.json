@@ -144,7 +144,7 @@
           "expr": "ngcdi_service_bandwidth",
           "format": "time_series",
           "intervalFactor": 1,
-          "legendFormat": "Average Service Throughput",
+          "legendFormat": "Aggregated Service Throughput",
           "refId": "A"
         }
       ],
@@ -236,7 +236,7 @@
     ]
   },
   "timezone": "",
-  "title": "SCKL Monitoring",
+  "title": "Supervisory Control and Knowledge Demo",
   "uid": "EeSoShqiz",
   "version": 1
 }
